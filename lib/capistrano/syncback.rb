@@ -1,7 +1,1 @@
-require "capistrano/syncback/version"
-
-module Capistrano
-  module Syncback
-    # Your code goes here...
-  end
-end
+load File.expand_path('../tasks/syncback.rake', __FILE__)

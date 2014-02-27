@@ -1,4 +1,4 @@
-Copyright (c) 2014 Hobofan
+Copyright (c) 2014 Maximilian Goisser
 
 MIT License
 
